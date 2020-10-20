@@ -1,6 +1,8 @@
 ## Demo App Redux Firebase React js.
 
 https://journal-app-react-redux.herokuapp.com/auth/login
+user: felipe@gmail.com
+pass: 123456
 
 ## App 
 Guardar notas diarias, subida de imagenes y obtener las mismas.
