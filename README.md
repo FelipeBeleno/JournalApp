@@ -1,3 +1,11 @@
+## Demo App Redux Firebase React js.
+
+https://journal-app-react-redux.herokuapp.com/auth/login
+
+## App 
+Guardar notas diarias, subida de imagenes y obtener las mismas.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
